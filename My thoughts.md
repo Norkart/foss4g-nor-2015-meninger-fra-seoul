@@ -17,9 +17,9 @@
    - All of Norway is there
  - A lot of stuff regarding Point Clouds:
   - PDAL (Like GDAL but for point clouds) is in 1.0 and quite impressive
-  - OpenDroneMap allows you to fly about with a cheap drone and create point clouds, orthos, DEMs
   - Point clouds have been shown in the browser.
   - Our very own Ivan did Point Cloud: The Musical with a very valuable lesson on avoiding format
+ - OpenDroneMap allows you to fly about with a cheap drone and create point clouds, orthos, DEMs
  - Related to OpenDroneMap is OpenAerialMap, which accepts orthos and satellites from many sources,
  from amateurs with ODM to opened government data sets.
   lockin in this brave new world.
@@ -30,13 +30,14 @@
    - Seamless integration with OpenLayers 3
  - The geoPackage standard is ready
   - Like Mbtiles, shapefiles and services all rolled into one downloadable file!
+  - Being pushed by the US Army Corp of Engineers
  - IoT sensors were mentioned a lot, now that the OGC has a standard in place
- - Looks like WPS has finally gained som traction, there are actually people using it for things now.
+ - Looks like WPS has finally gained some traction, there are actually people using it for things now.
+  - Support improving in multiple projects
+  - FFI made some interesting stuff
  - Using Machine Learning to improve OSM POIs
   - I think we're getting to the point where Machine Learning can do a lot of good stuff in geo.
-  
-  
-  
-  
-In conclusion, I would note to students here that if they join Geoforum and apply for the travel grant, then FOSS4G in Bonn should be very achievable!
+ - Next year it's in Bonn
+  - Pretty cheap and easy to get to, so everyone should go!
+  - Students should join geoforum and get a travel grant
  
