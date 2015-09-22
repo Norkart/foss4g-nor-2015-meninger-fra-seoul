@@ -1,0 +1,1 @@
+A presentation for FOSS4G-NOR 2015 talking about things I've seen at FOSS4g 2015 in Seoul. In Norwegian, that is. License is CC-BY-SA!
